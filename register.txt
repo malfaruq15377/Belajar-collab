@@ -1,4 +1,4 @@
 REGISTER FOR CREATE ACCOUNT :
 Username : Malfaruq
 Email : faruq@gmail.com
-Password : faruq123
+Password : wahyu123
